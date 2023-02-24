@@ -12,4 +12,8 @@ carrots
 
 lettuce
 
+cheese
+
+beef patty
+
 bottom bun
