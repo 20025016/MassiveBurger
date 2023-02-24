@@ -5,9 +5,9 @@ Barbecue sauce
 Ham
 
 Pickles
-sausage
+
 Cheese
-onion
+
 carrots
 
 lettuce
